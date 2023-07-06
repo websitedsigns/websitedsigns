@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @websitedsigns, Welcome to my GitHub profile!
+👋 Hi, I’m @websitedsigns, Welcome to my GitHub profile!
 
 🚀 Full Stack Developer | Passionate about building awesome web applications and creating impactful software solutions.
 
