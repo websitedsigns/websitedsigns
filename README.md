@@ -1,8 +1,8 @@
 👋 Hi, I’m @websitedsigns, Welcome to my GitHub profile!
 
-🚀 Full Stack Developer | Passionate about building awesome web applications and creating impactful software solutions.
+🚀 Front End Developer | Passionate about building awesome web applications and creating impactful software solutions.
 
-💻 Tech Stack: JavaScript | React | Node.js | Python | HTML | CSS | SQL
+💻 Tech Stack: JavaScript | React | Node.js | Python | HTML | CSS | SQL | java
 
 🌟 Open-source enthusiast | Contributing to the developer community through code and knowledge sharing.
 
